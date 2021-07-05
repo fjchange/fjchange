@@ -8,7 +8,6 @@ I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by
 🔭 **Reseach-wise, I mainly focus on**:
 
 - Video Understanding and Analysis. 
-
 - More specifically, Video Anomaly Detection, Video Action Localization, Transfer Learning (Domain Adaptation), Video Affective Analysis.
 
 😄 **I am open to**:
@@ -19,9 +18,7 @@ I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by
 
 🌱 **Publications**:
 - Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization. `ACM MM 2021`
-
 - MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection.  `CVPR 2021`
-  
 - One paper of Weakly Supervised Temporal Action Localization under reviewed.    
 
 📫 **Contact me by**:
