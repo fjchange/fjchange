@@ -1,7 +1,7 @@
 > All good things are on the way ahead.
 
 
-#### Hi, I am *@fjchange*(Feng Jia-Chang).
+#### Hi, I am *冯嘉昌*(Jia-Chang Feng).
 
 I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng.
 
