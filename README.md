@@ -19,19 +19,13 @@ I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by
 
 🌱 **Publications**:
 - Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization.
-
-  Fa-Ting Hong^, **Jia-Chang Feng^**, Dan Xu, Ying Shan, Wei-Shi Zheng __(^ indicates equal contribution)__
   
   `ACM International Conference on Multimedia (ACM MM), 2021`
 
 - MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection
-
-  __Jia-Chang Feng__, Fa-Ting Hong, Wei-Shi Zheng
   
   `IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021`
   
-    [Paper](https://arxiv.org/abs/2104.01633), [Code](https://github.com/fjchange/MIST_VAD), [Project Page](https://kiwi-fung.win/2021/04/28/MIST/)
-
 - One paper of Weakly Supervised Temporal Action Localization under reviewed.    
 
 📫 **Contact me by**:
