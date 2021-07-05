@@ -42,11 +42,6 @@ I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by
 - 2021-05-08: I give a speak on CSIG-Guangdong CVPR Sharing [ppt](https://fjchange.github.io/img/广东学术报告会-冯嘉昌-MIST.pdf).
 - 2021-04-18: One paper about Video Action Localization is submitted on ACM MM 2021.
 - 2021-04-01: One paper about Video Anomaly Detection is accepted on CVPR 2021. [MIST](https://arxiv.org/abs/2104.01633)
-- 2021-03-18: One paper about Video Action Localization is submitted to ICCV 2021.
-- 2019-09-10: I begin the journey of graduate in Sun Yat-sen University with supervision from [Prof. Wei-Shi Zheng](https://scholar.google.com/citations?user=AwqDDGoAAAAJ&hl=zh-CN&oi=ao).
-- 2019-06-28: I finished my undergraduate journey and graduated from South China University of Technology.
-- 2018-10-29: I joined intelligence science and system lab (iSEE Lab) of sun yat-sen university.
-- 2018-04: I joined So-Link Lab of south china university of china, under the supervision of [Prof. Jianming Lv](https://scholar.google.com/citations?user=nnY3bxgAAAAJ&hl=zh-CN&oi=ao).
 
 ----
 
