@@ -3,9 +3,7 @@
 
 #### Hi, I am *@fjchange*(Feng Jia-Chang).
 
-I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng, focusing on Video Understanding and Analysis. 
-
-More specifically, I am focusing on Video Anomaly Detection, Video Action Localization, Transfer Learning (Domain Adaptation), Video Affective Analysis.
+I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng.
 
 🔭 **Reseach-wise, I mainly focus on**:
 
