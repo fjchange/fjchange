@@ -18,13 +18,9 @@ I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by
 
 
 🌱 **Publications**:
-- Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization.
-  
-  `ACM International Conference on Multimedia (ACM MM), 2021`
+- Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization. `ACM MM 2021`
 
-- MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection
-  
-  `IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021`
+- MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection.  `CVPR 2021`
   
 - One paper of Weakly Supervised Temporal Action Localization under reviewed.    
 
