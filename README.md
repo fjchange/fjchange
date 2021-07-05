@@ -32,7 +32,6 @@ I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by
 - Email (fjchange [AT] hotmail.com)
 - [知乎:「Kiwi」](https://www.zhihu.com/people/feng-jia-chang), Personal Column [CV上手之路](https://www.zhihu.com/column/cv-newcomers)
 - [Google Scholar](https://scholar.google.com/citations?user=C-tYVeQAAAAJ&hl=zh-CN&oi=ao)
-- Service: reviewer of PRCV 2021.
 
 💬 **News**:
 
