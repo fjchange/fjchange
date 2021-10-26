@@ -3,7 +3,7 @@
 
 #### Hi, I am *冯嘉昌*(Jia-Chang Feng).
 
-I'm a Second-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng.
+I'm a Third-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng.
 
 🔭 **Reseach-wise, I mainly focus on**:
 
