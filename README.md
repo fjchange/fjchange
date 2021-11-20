@@ -8,7 +8,7 @@ I'm a Third-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by 
 🔭 **Reseach-wise, I mainly focus on**:
 
 - Video Understanding and Analysis. 
-- More specifically, Video Anomaly Detection, Video Action Localization, Transfer Learning (Domain Adaptation), Video Affective Analysis.
+- More specifically, Video Event Detection and Retrieval, Transfer Learning (Domain Adaptation), Video Affective Analysis.
 
 😄 **I am open to**:
 
