@@ -27,7 +27,7 @@ I'm a Third-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by 
 
 💬 **News**:
 
-- 2021-09-09: A paper about weakly supervised action localization is submitted to AAAI 2022. 
+- 2021-12-08: I serve as a reviewer for Neurocomputing. 
 - 2021-07-04: A paper about weakly supervised action localization is accepted on ACM MM 2021.
 - 2021-06-29: I serve as a reviewer of PRCV 2021.
 - 2021-06-02: I will start my internship in Applied Research Center Lab (ARC Lab), Platform and Content Group (PCG) of Tencent, to do some research on video understanding and analysis, under the supervision of [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN&oi=ao) and [Zhongang Qi](https://scholar.google.com/citations?user=zJvrrusAAAAJ&hl=zh-CN&oi=ao)
