@@ -27,6 +27,7 @@ I'm a Third-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by 
 
 💬 **News**:
 
+- 2021-12-31: I serve as a reviewer for PRCV 2022. 
 - 2021-12-08: I serve as a reviewer for Neurocomputing. 
 - 2021-07-04: A paper about weakly supervised action localization is accepted on ACM MM 2021.
 - 2021-06-29: I serve as a reviewer of PRCV 2021.
