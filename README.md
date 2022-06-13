@@ -26,6 +26,7 @@ I'm a Third-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by 
 - [知乎:「Kiwi」](https://www.zhihu.com/people/feng-jia-chang)
 
 💬 **News**:
+- 2022-06-13: I'm honored with Outstanding Graduate of SYSU.
 - 2022-05-27: A paper about Self-Supervised Visual Pretraining is submitted to NeurIPS 2022.
 - 2022-05-04: I serve as a reviewer for ECCV 2022. 
 - 2021-12-31: I serve as a reviewer for PRCV 2022. 
