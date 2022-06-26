@@ -19,13 +19,15 @@ I'm a Third-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by 
 🌱 **Publications**:
 - Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization. `ACM MM 2021` [paper](https://arxiv.org/abs/2107.12589)
 - MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection.  `CVPR 2021` [paper](https://arxiv.org/abs/2104.01633)
-- One paper of Weakly Supervised Temporal Action Localization under reviewed.    
+- Weakly-supervised Action Localization via Hierarchical Mining. [Arxiv](https://arxiv.org/pdf/2206.11011.pdf)
 
 📫 **Contact me by**:
 - Email (fjchange [AT] hotmail.com)
 - [知乎:「Kiwi」](https://www.zhihu.com/people/feng-jia-chang)
 
 💬 **News**:
+- 2022-07-05: I'll join DJI as a UAV perception algorithm engineer.
+- 2022-06-24: The internship in ARC Lab of Tencent comes to its end.
 - 2022-06-13: I'm honored with Outstanding Graduate of SYSU.
 - 2022-05-27: A paper about Self-Supervised Visual Pretraining is submitted to NeurIPS 2022.
 - 2022-05-04: I serve as a reviewer for ECCV 2022. 
