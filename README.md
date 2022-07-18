@@ -3,7 +3,7 @@
 
 #### Hi, I am *冯嘉昌*(Jia-Chang Feng).
 
-I'm a Third-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng.
+I'm a Graduated Master of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng. Now I join DJI Innovation as a perception algorithm engineer.
 
 🔭 **Reseach-wise, I mainly focus on**:
 
@@ -26,7 +26,7 @@ I'm a Third-Year Master Student of SYSU (Sun-Yat-Sen University), supervised by 
 - [知乎:「Kiwi」](https://www.zhihu.com/people/feng-jia-chang)
 
 💬 **News**:
-- 2022-07-05: I'll join DJI as a UAV perception algorithm engineer.
+- 2022-07-05: I join DJI as a UAV perception algorithm engineer.
 - 2022-06-24: The internship in ARC Lab of Tencent comes to its end.
 - 2022-06-13: I'm honored with Outstanding Graduate of SYSU.
 - 2022-05-27: A paper about Self-Supervised Visual Pretraining is submitted to NeurIPS 2022.
