@@ -3,7 +3,7 @@
 
 #### Hi, I am *冯嘉昌*(Jia-Chang Feng).
 
-I'm a Graduated Master of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng. Now I join DJI Innovation as a perception algorithm engineer.
+I join DJI Innovation as a perception algorithm engineer. Besides, I am a Master of SYSU (Sun-Yat-Sen University), supervised by Wei-Shi Zheng.
 
 🔭 **Reseach-wise, I mainly focus on**:
 
