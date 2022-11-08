@@ -26,6 +26,7 @@ I join DJI Innovation as a perception algorithm engineer. Besides, I am a Master
 - [知乎:「Kiwi」](https://www.zhihu.com/people/feng-jia-chang)
 
 💬 **News**:
+- 2022-11-09: I serve as a reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TSCVT). 
 - 2022-07-05: I join DJI as a UAV perception algorithm engineer.
 - 2022-06-24: The internship in ARC Lab of Tencent comes to its end.
 - 2022-06-13: I'm honored with Outstanding Graduate of SYSU.
