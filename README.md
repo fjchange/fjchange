@@ -7,7 +7,7 @@ I join DJI Innovation as a perception algorithm engineer. Besides, I am a Master
 
 🔭 **Reseach-wise, I mainly focus on**:
 
-- Video Understanding and Analysis and SLAM.
+- Video Understanding and Analysis and Robotics Perception.
 - More specifically, Video Event Detection and Retrieval, Stereo Vision.
 
 😄 **I am open to**:
