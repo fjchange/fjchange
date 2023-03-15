@@ -19,7 +19,8 @@ I join DJI Innovation as a perception algorithm engineer. Besides, I am a Master
 🌱 **Publications**:
 - Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization. `ACM MM 2021` [paper](https://arxiv.org/abs/2107.12589)
 - MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection.  `CVPR 2021` [paper](https://arxiv.org/abs/2104.01633)
-- Weakly-supervised Action Localization via Hierarchical Mining. [Arxiv](https://arxiv.org/pdf/2206.11011.pdf)
+- Weakly-supervised Action Localization via Hierarchical Mining. [Arxiv](https://arxiv.org/pdf/2206.11011v1.pdf)
+- Weakly-Supervised Temporal Action Localization by Progressive Complementary Learning [Arxiv](https://arxiv.org/pdf/2206.11011.pdf)
 
 📫 **Contact me by**:
 - Email (fjchange [AT] hotmail.com)
