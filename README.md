@@ -8,13 +8,11 @@ I join DJI Innovation as a perception algorithm engineer. Besides, I am a Master
 🔭 **Reseach-wise, I mainly focus on**:
 
 - Video Understanding and Robotics Perception.
-- More specifically, Video Event Detection and Retrieval, Stereo Vision, Semantic Segmentation, Light-Weight Vision Network.
+- More specifically, Video Event Detection and Retrieval, Stereo Vision, Semantic Segmentation, Light-Weight Vision Network, Multi-Task Perception.
 
 😄 **I am open to**:
 
 - A job offer with computer vision research and engineering
-- A PhD position
-
 
 🌱 **Publications**:
 - Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization. `ACM MM 2021` [paper](https://arxiv.org/abs/2107.12589)
@@ -27,6 +25,7 @@ I join DJI Innovation as a perception algorithm engineer. Besides, I am a Master
 - [知乎:「Kiwi」](https://www.zhihu.com/people/feng-jia-chang)
 
 💬 **News**:
+- 2024-09-03: Weakly-Supervised Temporal Action Localization by Progressive Complementary Learning is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TSCVT). 
 - 2022-12-27: I serve as a reviewer for Pattern Recognition (PR). 
 - 2022-11-17: I serve as a reviewer for IEEE Transactions on Multimedia (TMM). 
 - 2022-11-09: I serve as a reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TSCVT). 
